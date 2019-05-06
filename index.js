@@ -29,3 +29,10 @@ var j = 2
 function dec (j) {
   return (j-1)
 }
+
+var k = 1.1 
+var l = 2
+function makeInt(k,l) {
+  return parseInt(n)
+}
+}
