@@ -32,7 +32,7 @@ function dec (j) {
 
 var n = 1.1 
 var l = 10
-function makeInt(n, l) {
-  return parseInt(n)
+function makeInt() {
+  return parseInt(n, l)
 
 }
