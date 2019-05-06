@@ -30,9 +30,9 @@ function dec (j) {
   return (j-1)
 }
 
-var n = 1.1 
+var n = 2
 var l = 10
 function makeInt(n, l) {
-  return parseInt('2', 10)
+  return parseInt(2, 10)
 
 }
